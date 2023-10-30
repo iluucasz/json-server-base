@@ -17,6 +17,5 @@ app.use(auth);
 app.use(router);
 app.listen(port);
 
-console.log("Server is running on port:", port);
+console.log("O servidor está rodando na porta :", port);
 
-/* A senha do Kenzinho é 123456 */
